@@ -1,0 +1,36 @@
+I am a mathematician-engineer turned data scientist, with a robust analytical foundation, full-stack & DevOps mindset, and deep-dive expertise in agentic AI systems. My journey began with a Degree in Mathematics at the Universidad de Sevilla (US), where I built competence in abstract reasoning, optimisation, differential equations, modelling and rigorous proof-based thinking. During that time I also completed an Erasmus year at the Universität Wuppertal in Germany, which enriched my interdisciplinary perspective and broadened my technical growth.
+
+Currently I’m pursuing the Master’s in Big Data and Data Science at the Universidad Internacional de Valencia (VIU). Through this programme, I’ve deepened my expertise in large-scale data processing, cloud & distributed data architectures, advanced statistical inference, business intelligence, data science analytics, machine learning pipelines and applied AI systems engineering.
+
+Professionally, I completed a 150-hour internship at Nubita Data Solutions, where I participated in an end-to-end recommendation-system project focused on customer segmentation and forecasting. I applied Python models including XGBoost, Prophet, SARIMAX, and worked with DBT and Snowflake to orchestrate the data transformation pipelines, feature engineering and production-ready modular architecture.
+
+In parallel, I led a full-stack, DevOps-enabled, data-science + AI project at Keller Williams. In that project I took on multiple roles: data scientist, full-stack developer, DevOps engineer and AI-agent designer. I built from the ground up the backend data-layer (ETL/ELT, data warehouse), created frontend dashboards and visualisations, designed and deployed micro-services and CI/CD pipelines, and implemented agent-based decision-support workflows tailored to the real-estate domain. This experience let me span the entire stack: from raw data ingestion through modelling and deployment to intelligent agent-driven automation and UI delivery.
+
+On the training side beyond formal education, I completed the full-stack development bootcamp by Angela Yu (MERN stack: MongoDB, Express, React, Node.js; REST APIs; cloud deployment) — which reinforced my product-engineering skills and allowed me to build integrated applications that combine data, backend logic and frontend interface.
+
+On the cutting-edge of AI, I have completed all the advanced courses by Ed Donner:
+
+“Mastering AI and LLM Engineering” — an 8-week journey covering LLM applications, RAG (Retrieval-Augmented Generation) pipelines, fine-tuning, embedding & retrieval workflows. 
+Edward Donner
++1
+
+“The Complete Agentic AI Engineering Course” — a 6-week intensive where I built autonomous agents, leveraged frameworks like OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, and the MCP protocol. 
+Udemy
++2
+Class Central
++2
+
+“AI in Production: Gen AI and Agentic AI on AWS at scale” — training on full-stack AI product deployment: RAG pipelines, vector databases, deploying multi-agent systems, containerisation, CI/CD, cloud services (AWS, GCP, Azure). 
+Edward Donner
+
+From these courses I mastered techniques such as:
+
+Retrieval-Augmented Generation (RAG) — combining vector-database retrieval with LLM generation to ground responses in domain-specific data.
+
+Agentic AI frameworks — designing autonomous agents that plan, act, coordinate, use tools, collaborate and execute workflows with minimal human oversight.
+
+Few-shot and zero-shot prompting, chain-of-thought reasoning, embedding-retrieval hybrid workflows, multi-agent orchestration and tool-use.
+
+Production-grade full-stack and DevOps practices for AI systems: microservices, Docker/containers, Kubernetes/Serverless, CI/CD pipelines, monitoring and observability, model serving, feature stores, A/B testing, feedback loops, scaling and resilience.
+
+In summary, my profile has become the intersection of mathematical rigour, data-engineering & machine-learning systems, full-stack + DevOps application development, and agentic AI design. I enjoy connecting theory with practice: from proving a theorem in mathematics, to building a robust data-pipeline, to deploying an AI system that acts, learns and supports decision-making. My mission is to build intelligent systems that not only analyse data, but act — spanning data ingestion → modelling → application front-end → autonomous agent workflows → continuous deployment and optimisation — delivering real business and societal value.

@@ -1,0 +1,30 @@
+{
+  "full_name": "Manuel Cabrera Moreno",
+  "name": "Manolo",
+  "current_role": "Data science and AI engineer in Keller Williams",
+  "location": "Sevilla",
+  "email": "mancabmor2@gmail.com",
+  "specialties": [
+    "Data science and data analysis",
+    "Agentic AI",
+    "Maths, statistics and optimization"
+  ],
+  "years_experience": 0.5,
+  "education": [
+    {
+      "degree": "Mathematics",
+      "institution": "University of Seville",
+      "year": "2020-2024"
+    },
+    {
+      "Erasmus": "Mathematics",
+      "institution": "Bergische universität Wuppertal",
+      "year": "2023-2024"
+    },
+    {
+      "Master": "Big data and data science",
+      "institution": "Internacional university of Valencia",
+      "year": "2024-2025"
+    }
+  ]
+}
