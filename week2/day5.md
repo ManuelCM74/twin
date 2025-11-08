@@ -160,8 +160,8 @@ git init -b main
 # git checkout -b main
 
 # Configure git (replace with your details)
-git config user.name "Your Name"
-git config user.email "your.email@example.com"
+git config user.name "Manuel Cabrera"
+git config user.email "mancabmor2@gmail.com"
 ```
 
 **Windows (PowerShell):**
